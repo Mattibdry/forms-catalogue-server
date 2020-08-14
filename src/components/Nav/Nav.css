@@ -1,0 +1,35 @@
+.left-nav h3 {
+    border: 1px solid #ddd;
+    border-bottom: 5px solid #4b0c00;
+    font-size: 1.1em;
+    margin: 15px 0 1px;
+    padding: 15px;
+}
+
+
+.left-nav ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.left-nav ul a {
+    text-decoration: none;
+}
+
+.left-nav ul li {
+    background-color: #e6e5e5;
+    color: black;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.left-nav ul li:hover {
+    background-color: #4b0c00;
+    color: #fff;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+}
